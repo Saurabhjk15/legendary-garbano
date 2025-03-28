@@ -1,1 +1,1 @@
-It is a fun snake game which we play  in our mobile phone in free time. if  the  deployment doesn't work then just download the code and run it on our preferred ide as it is very simple and easy to use.
+It is a fun snake game which we play  in our mobile phone in free time. if  the  deployment doesn't work then just download the code and run it on your preferred ide as it is very simple and easy to use.
